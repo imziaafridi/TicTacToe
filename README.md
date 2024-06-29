@@ -14,11 +14,11 @@ Make sure you have Flutter installed on your machine. If not, you can follow the
 Installation
 1. Clone the repository:
    
- ``` git clone https://github.com/yourusername/tictactoe_flutter.git ```
+ ``` git clone https://github.com/imziaurrehman/TicTacToe.git ```
  
  2. Navigate to the project directory:
   
-   ``` cd tictactoe_flutter ```
+   ``` cd TicTacToe ```
 
  3. Install dependencies:
     
