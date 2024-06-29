@@ -38,8 +38,8 @@ Installation
 
 <table>
   <tr> 
-     <td>LoginUI-01</td> 
-     <td>LoginUI-02</td> 
+     <td>TicTacToe-01</td> 
+     <td>TicTacToe-02</td> 
   </tr>
   <tr>
       <td><img src="https://github.com/imziaurrehman/TicTacToe/blob/main/assets/images/Screenshot_1719523733.png" width=270 height=570></td>
